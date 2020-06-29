@@ -1,0 +1,6 @@
+usr/local/bin/sbpay-qt usr/bin
+share/pixmaps/sbpay32.xpm usr/share/pixmaps
+share/pixmaps/sbpay16.xpm usr/share/pixmaps
+share/pixmaps/sbpay128.png usr/share/pixmaps
+debian/sbpay-qt.desktop usr/share/applications
+debian/sbpay-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,3 @@
+usr/local/bin/sbpayd usr/bin
+usr/local/bin/sbpay-cli usr/bin
+debian/examples/sbpay.conf etc/sbpay

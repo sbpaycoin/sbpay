@@ -1,0 +1,8 @@
+/usr/bin/sbpay-cli		--	gen_context(system_u:object_r:sbpay_exec_t,s0)
+/usr/sbin/sbpayd		--	gen_context(system_u:object_r:sbpay_exec_t,s0)
+/usr/lib(64)?/sbpay/sbpayd		--	gen_context(system_u:object_r:sbpay_exec_t,s0)
+
+/etc/sbpay(/.*)?		gen_context(system_u:object_r:sbpay_conf_t,s0)
+/var/lib/sbpay(/.*)?		gen_context(system_u:object_r:sbpay_var_lib_t,s0)
+
+(/var)?/run/sbpayd(/.*)?   gen_context(system_u:object_r:sbpay_var_run_t,s0)

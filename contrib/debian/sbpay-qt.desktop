@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=SBPay Core
+Comment=SBPay P2P Cryptocurrency
+Comment[fr]=SBPay, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SBPay, eşten eşe kriptografik sanal para birimi
+Exec=sbpay-qt %u
+Terminal=false
+Type=Application
+Icon=sbpay128
+MimeType=x-scheme-handler/sbpay;
+Categories=Office;Finance;
+StartupWMClass=SBPay-qt

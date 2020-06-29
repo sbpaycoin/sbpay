@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/sbpay_bg.qm</file>
+        <file alias="ca">locale/sbpay_ca.qm</file>
+        <file alias="cs">locale/sbpay_cs.qm</file>
+        <file alias="da">locale/sbpay_da.qm</file>
+        <file alias="de">locale/sbpay_de.qm</file>
+        <file alias="en">locale/sbpay_en.qm</file>
+        <file alias="en_GB">locale/sbpay_en_GB.qm</file>
+        <file alias="en_US">locale/sbpay_en_US.qm</file>
+        <file alias="eo">locale/sbpay_eo.qm</file>
+        <file alias="es">locale/sbpay_es.qm</file>
+        <file alias="es_ES">locale/sbpay_es_ES.qm</file>
+        <file alias="fi">locale/sbpay_fi.qm</file>
+        <file alias="fr_FR">locale/sbpay_fr_FR.qm</file>
+        <file alias="hi_IN">locale/sbpay_hi_IN.qm</file>
+        <file alias="hr">locale/sbpay_hr.qm</file>
+        <file alias="hr_HR">locale/sbpay_hr_HR.qm</file>
+        <file alias="it">locale/sbpay_it.qm</file>
+        <file alias="ja">locale/sbpay_ja.qm</file>
+        <file alias="ko_KR">locale/sbpay_ko_KR.qm</file>
+        <file alias="lt_LT">locale/sbpay_lt_LT.qm</file>
+        <file alias="nl">locale/sbpay_nl.qm</file>
+        <file alias="pl">locale/sbpay_pl.qm</file>
+        <file alias="pt">locale/sbpay_pt.qm</file>
+        <file alias="pt_BR">locale/sbpay_pt_BR.qm</file>
+        <file alias="ro_RO">locale/sbpay_ro_RO.qm</file>
+        <file alias="ru">locale/sbpay_ru.qm</file>
+        <file alias="sk">locale/sbpay_sk.qm</file>
+        <file alias="sv">locale/sbpay_sv.qm</file>
+        <file alias="tr">locale/sbpay_tr.qm</file>
+        <file alias="uk">locale/sbpay_uk.qm</file>
+        <file alias="vi">locale/sbpay_vi.qm</file>
+        <file alias="zh_CN">locale/sbpay_zh_CN.qm</file>
+        <file alias="zh_TW">locale/sbpay_zh_TW.qm</file>
+    </qresource>
+</RCC>
